@@ -25,6 +25,6 @@ This project is a role-based support ticketing system, where users can create su
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/YOUR-REPO.git
+   git clone https://github.com/yajesus/Ticket-managment-test
    cd YOUR-REPO
    ```
